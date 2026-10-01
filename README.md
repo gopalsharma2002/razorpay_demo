@@ -23,8 +23,9 @@ A Flutter demo app showcasing Razorpay payment gateway integration
 | ![Home](screenshots/home.jpeg) | ![Checkout](screenshots/checkout.jpeg) | ![Razorpay](screenshots/razorpay.jpeg) | ![Success](screenshots/sucess.jpeg) |
 
 ## Demo Video
+https://github.com/user-attachments/assets/608ed918-c5d2-43dd-8431-9f0c62d79357
 
-Video will be added here after push (see below).
+
 
 ## Security Note
 
